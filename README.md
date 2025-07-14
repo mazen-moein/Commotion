@@ -1,2 +1,2 @@
 # Commotion
-Manage Data in a clean UI
+Manage data in a clean UI
